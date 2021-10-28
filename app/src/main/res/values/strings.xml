@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HealthCareApp</string>
+    <string name="phoneno">Phone number</string>
+    <string name="password">Password</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="confirmpassword">Confirm Password</string>
+</resources>
